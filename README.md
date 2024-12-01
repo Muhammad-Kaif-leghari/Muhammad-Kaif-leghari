@@ -5,7 +5,7 @@
 - 💬 Ask me about GitHub.  
 
 ## Connect with me:  
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/your-profile)  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/muhammad-kaif-leghari-5a24a7303)  
 - [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat)](https://github.com/Muhammad-Kaif-leghari) 
 - [Portfolio](https://muhammad-kaif.carrd.co)  
 
