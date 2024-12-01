@@ -10,10 +10,10 @@
 - [Portfolio](https://muhammad-kaif.carrd.co)  
 
 ## My Skillset:  
-- Programming: Python, JavaScript  
-- Cloud: AWS 
-- Tools: Docker, Kubernetes, Git  
-- Design: Figma, UI/UX  
+- Programming: `Python`, `JavaScript`
+- Cloud: `AWS` 
+- Tools: `Docker`, `Kubernetes`,` Git ` 
+- Design: `Figma`, `UI/UX ` 
 
 
 <details>
@@ -26,8 +26,7 @@
 
 </details>  
  
-
-"You have to have the fighting spirit. You have to force moves and take chances." – Bobby Fischer
+`"You have to have the fighting spirit. You have to force moves and take chances." – Bobby Fischer`
 
 <!---
 Muhammad-Kaif-leghari/Muhammad-Kaif-leghari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
