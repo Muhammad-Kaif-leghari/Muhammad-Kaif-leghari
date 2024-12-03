@@ -1,6 +1,6 @@
 # Hi there 👋🏻  
 ### I'm Muhammad Kaif, a software engineering student with a passion for cloud computing, DevOps, and design!  
-- Currently working on something cool!  
+- Currently working on Cloud Resume Challenge!  
 - 📖 Learning with the help of [docs.github.com](https://docs.github.com).  
 - 💬 Ask me about GitHub.  
 
