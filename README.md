@@ -11,9 +11,9 @@
 
 ## My Skillset:  
 - Programming: `Python`, `JavaScript`
-- Cloud: `AWS` 
-- Tools: `Docker`, `Kubernetes`,` Git ` 
-- Design: `Figma`, `UI/UX ` 
+- Cloud: `AWS S3`,`AWS IAM`, `AWS VPC`, `AWS ALB `, `AWS EC2`
+- Tools: `Docker`, `Kubernetes`,` Git ` , `Linux - EC2`
+- Design: `Figma`, `After Effects` 
 
 
 <details>
@@ -22,8 +22,9 @@
 | Rank |     Interests     |  
 |-----:|-------------------|  
 |   1|       AWS           |  
-|   2|  DevOps Practices   |  
-
+|   2|  DevOps Practices   |
+|   3|  Infrastructure     |
+|   4|  Chess              |
 </details>  
  
 `"You have to have the fighting spirit. You have to force moves and take chances." – Bobby Fischer`
