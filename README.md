@@ -20,9 +20,7 @@ I'm a **Software Engineering graduate (CGPA: 3.49) from SZABIST Hyderabad** spec
 
 - 🔭 Currently deepening expertise in **Kubernetes orchestration** and **multi-cloud IaC**
 - 📄 Published **first-author research** on Meta Quest 3 / ARM SoC performance at arXiv (paper `2509.18929`)
-- 🏅 Selected for a **competitive national Digital IC Design & Verification training program**
 - 💼 DevOps internship at **CloudLem** — CI/CD automation + secure deployment architecture on AWS
-- ⚡ I believe good infrastructure is invisible — until it isn't
 
 ---
 
@@ -133,7 +131,6 @@ I'm a **Software Engineering graduate (CGPA: 3.49) from SZABIST Hyderabad** spec
 ## 🏅 Certifications & Experience
 
 * **DevOps Intern** · CloudLem *(Nov 2025 – Dec 2025)* — Managed automated CI/CD configurations, image distribution architectures via DockerHub, and strict environment secrets compliance.
-* **Digital IC Design & Verification Program** · National Training Track *(2026)* — Advanced logic validation and performance verification strategies.
 * **Containers w/ Docker & Kubernetes** · IBM / Coursera *(2025)*
 * **AWS Cloud Technical Essentials** · AWS / Coursera *(2025)*
 
