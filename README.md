@@ -93,7 +93,29 @@ I'm a **Software Engineering graduate (CGPA: 3.49) from SZABIST Hyderabad** spec
 
 ---
 
-### 2. 🛡️ Women's Safety Project (Final Year Project)
+### 2. ⚖️ Optimizing Traffic Distribution with AWS ALB
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Muhammad-Kaif-leghari/Optimizing-Traffic-Distribution-AWS-ALB)
+
+**Problem:** Single-instance hosting creates computing bottlenecks, high latency risk, and single points of failure under production workloads.
+
+**Solution:** Implemented **AWS Application Load Balancer (ALB)** to distribute incoming traffic across multiple EC2 instances using targeted routing rules. Improved application availability by ensuring traffic only hits healthy targets and integrated **Auto Scaling policies** to dynamically scale infrastructure metrics based on real-time load demand.
+
+`AWS ALB` `Auto Scaling` `EC2` `High Availability` `Load Balancing`
+
+---
+
+### 3. 🔐 Amazon VPC Network Architecture for Secure EC2 Deployment
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Muhammad-Kaif-leghari/Amazon-VPC-Setup-Public-Subnet-EC2)
+
+**Problem:** Deploying cloud resources directly into default public subnets leaves internal architectures exposed without proper security governance.
+
+**Solution:** Architected a secure, custom **Amazon VPC** infrastructure using optimized CIDR block allocation to establish isolated network foundations. Mapped reliable external connectivity paths via **Internet Gateways** and custom routing tables while hardening compute nodes with strict security group firewall access rules.
+
+`Amazon VPC` `Network Security` `EC2` `Internet Gateway` `Security Groups`
+
+---
+
+### 4. 🛡️ Women's Safety Project (Final Year Project)
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Muhammad-Kaif-leghari/WomenSafetyProject)
 
 **Problem:** Standard safety applications run vulnerably when cellular signals drop or background environments kill live tracking services.
@@ -104,7 +126,7 @@ I'm a **Software Engineering graduate (CGPA: 3.49) from SZABIST Hyderabad** spec
 
 ---
 
-### 3. 🔐 Manual Testing — RBAC on OrangeHRM
+### 5. 🔍 Manual Testing — RBAC on OrangeHRM
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Muhammad-Kaif-leghari/Manual-Testing-RBAC-OrangeHRM)
 
 **Problem:** Role-Based Access Control implementations in enterprise suites can harbor subtle privilege escalation bugs overlooked by automated vulnerability configurations.
