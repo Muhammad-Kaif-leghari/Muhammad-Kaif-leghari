@@ -137,19 +137,6 @@ I'm a **Software Engineering graduate (CGPA: 3.49) from SZABIST Hyderabad** spec
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-two-nu.vercel.app/api?username=Muhammad-Kaif-leghari&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Kaif-leghari&theme=default&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=Muhammad-Kaif-leghari&layout=compact&theme=default&hide_border=true&langs_count=8" height="130"/>
-
-</div>
-
----
-
 ## 🏅 Certifications & Experience
 
 * **DevOps Intern** · CloudLem *(Nov 2025 – Dec 2025)* — Managed automated CI/CD configurations, image distribution architectures via DockerHub, and strict environment secrets compliance.
