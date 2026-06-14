@@ -3,8 +3,6 @@
 # Hi, I'm Muhammad Kaif Laghari 👋
 ### Cloud & DevOps Engineer · Systems Performance Researcher · Infrastructure Automation
 
-*Automating cloud delivery pipelines by day, benchmarking ARM SoCs by night.*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-kaif-leghari/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://muhammad-kaif-portfolio.onrender.com/)
 [![arXiv](https://img.shields.io/badge/arXiv-2509.18929-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.18929)
