@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Muhammad Kaif Laghari 👋
+# Hi, I'm Muhammad Kaif 👋
 ### Cloud Engineer · Systems Performance Researcher · Infrastructure Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-kaif-leghari/)
