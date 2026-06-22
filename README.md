@@ -18,7 +18,6 @@ I'm a **Software Engineering graduate (CGPA: 3.49) from SZABIST Hyderabad** spec
 
 - 🔭 **Currently:** Deepening my hands-on expertise in Kubernetes orchestration, multi-cloud IaC, and agentic systems monitoring.
 - 📄 **Research:** Published first-author research evaluating mobile/edge hardware performance baselines under heavy workloads.
-- 💼 **Experience:** Completed a practical DevOps engineering assessment training track at CloudLem, building out infrastructure automation pipelines.
 
 ---
 
