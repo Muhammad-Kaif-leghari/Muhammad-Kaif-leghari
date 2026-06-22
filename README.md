@@ -40,7 +40,7 @@ I'm a **Software Engineering graduate (CGPA: 3.49) from SZABIST Hyderabad** spec
 
 **Key skills demonstrated:**
 * 📊 Quantitative benchmarking methodology for edge XR compute workloads
-* 🌡️ Thermal throttling analysis and SoC headroom modeling under sustained loads
+* 🌡️ Thermal throttling and SoC headroom analysis
 * 🔬 Hardware-software interface performance profiling on ARM architectures
 
 ---
