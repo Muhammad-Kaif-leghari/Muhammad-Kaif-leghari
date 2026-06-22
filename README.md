@@ -14,7 +14,7 @@
 
 ## 🧭 About Me
 
-I'm a **Software Engineering graduate (CGPA: 3.49) from SZABIST Hyderabad** specializing in **Cloud Infrastructure, DevOps automation, and Systems Performance**. My work spans the full software delivery lifecycle — from designing secure AWS deployment architectures to publishing first-author quantitative research on ARM SoC thermal constraints.
+I'm a **Software Engineering graduate from SZABIST** specializing in **Cloud Infrastructure, DevOps automation, and Systems Performance**. My work spans the full software delivery lifecycle — from designing secure AWS deployment architectures to publishing first-author quantitative research on ARM SoC thermal constraints.
 
 - 🔭 **Currently:** Deepening my hands-on expertise in Kubernetes orchestration, multi-cloud IaC, and agentic systems monitoring.
 - 📄 **Research:** Published first-author research evaluating mobile/edge hardware performance baselines under heavy workloads.
